@@ -23,13 +23,13 @@
     border-radius: 5px;
 
 }
-.navbar ul li:hover{
+/* .navbar ul li:hover{
     background-color:rgb(236, 212, 182);
     color: black;
     cursor: pointer; 
 /*     transform: rotate3d(1,0,0,360deg)scale(1);
     transition: 2s; */
-}
+} */
 .logo{
     position: fixed;
     right: 85%;
@@ -63,10 +63,11 @@
     margin-top: 2%;
     border-radius: 7px;
 }
-.btn:hover{
+/* .btn:hover{
     background-color: aliceblue;
     color: black;
     cursor: pointer;
-    transform: rotate3d(0,1,0,360deg)scale(2);
-    transition: 2s;
+/*     transform: rotate3d(0,1,0,360deg)scale(2);
+    transition: 2s; */
 }
+ */
